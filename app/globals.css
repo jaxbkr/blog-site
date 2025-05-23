@@ -66,3 +66,18 @@
   --color-dark-secondary: #553a59;
   --color-dark-accent: #9d2a2a;
 }
+
+
+.post img {
+  border-radius: 0.5rem;
+
+
+}
+
+.post a {
+  color: var(--color-accent)
+}
+
+.post a:hover {
+  text-decoration: underline;
+}
