@@ -69,6 +69,7 @@
 
 
 .post img {
+<<<<<<< HEAD
   border-radius: 0.5rem;
 
 
@@ -76,6 +77,13 @@
 
 .post a {
   color: var(--color-accent)
+=======
+  margin: 16px auto 0px
+}
+
+.post a {
+  color: var(--color-accent);
+>>>>>>> 832e6ee (post formatting adjusted)
 }
 
 .post a:hover {
